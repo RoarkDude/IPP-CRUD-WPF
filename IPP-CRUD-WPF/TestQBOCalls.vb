@@ -91,8 +91,6 @@ Public NotInheritable Class TestQBOCalls
 
         '#End Region
 
-
-
         '#End Region
 
         '#Region "budget tests"
